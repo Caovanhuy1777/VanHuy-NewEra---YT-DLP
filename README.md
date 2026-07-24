@@ -34,7 +34,7 @@ Clone repository:
 
 git clone https://github.com/Caovanhuy1777/VanHuy-NewEra---YT-DLP.git
 
-cd Downloader
+cd VanHuy-NewEra---YT-DLP
 
 Cài đặt thư viện:
 
