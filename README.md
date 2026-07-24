@@ -46,7 +46,7 @@ python download.py
 
 Cấu trúc thư mục
 
-Downloader/
+VanHuy-NewEra---YT-DLP/
 
 download.py
 requirements.txt
