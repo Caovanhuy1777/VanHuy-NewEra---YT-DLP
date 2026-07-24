@@ -17,7 +17,6 @@ Nền tảng được hỗ trợ
 
 - YouTube
 - TikTok
-- Douyin (Đang phát triển)
 - Bilibili
 - Facebook Video
 - X (Twitter)
@@ -44,28 +43,13 @@ Khởi chạy:
 
 python download.py
 
-Douyin
-
-Một số video Douyin yêu cầu cookie.
-
-Nếu gặp lỗi:
-
-Fresh cookies (not necessarily logged in) are needed
-
-hãy đặt file:
-
-cookies.txt
-
-cùng thư mục với "download.py".
-
 Cấu trúc thư mục
 
 Downloader/
-│
-├── download.py
-├── requirements.txt
-├── README.md
-└── cookies.txt (không bắt buộc)
+
+download.py
+requirements.txt
+README.md
 
 Phiên bản
 
@@ -84,4 +68,4 @@ VanHuy
 
 ---
 
-Nếu thấy hữu ích, hãy ⭐ Repository để ủng hộ dự án.
+Nếu thấy hữu ích, hãy đánh giá Repository để ủng hộ dự án.
